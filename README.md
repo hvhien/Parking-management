@@ -1,11 +1,11 @@
-# multiple-choice-check-
+# Parking-management
 ## Bài tập lớn Java 
-### Đề tài: Xây dựng phần mềm trắc nghiệm môn học
+### Đề tài: Xây dựng phần mềm quản lý bãi đỗ xe chung cư, tòa nhà
 __Tính năng sản phẩm__
-- Phân loại câu hỏi theo độ khó; lập đề trắc nghiệp phân theo mưc độ khó; 
-- thực hiện thi; 
-- tính và lưu kết quả
-- xếp loại ranking
+- Quản lý nhân viên
+- Quản lý bãi đỗ
+- Quản lý khách hàng thành viên
+- Thống kê doanh thu hàng tháng -> xuất file báo cáo
 
 ... tiếp tục liệt kê
 
